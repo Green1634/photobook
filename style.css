@@ -1,0 +1,18 @@
+img {
+  border: solid;
+  border-radius: 5px;
+}
+
+.materialboxed {
+  width: 50%;
+  height: 50%;
+}
+
+body {
+  background-image: url(images/back4.jpg);
+  font-family: 'Texturina', serif;
+}
+
+h3 {
+  padding-bottom: 1.5em;
+}

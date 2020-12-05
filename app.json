@@ -1,0 +1,83 @@
+{
+    "persons":[
+            {
+                "id": 2,
+                "name": "Ibrahim Oluwakemi Green",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607128744/oluwakemi_hwwn8g.jpg",
+                "email": "greenreina01@gmail.com",
+                "rank": "Fullstack Developer"
+               
+            },
+            {
+                "id": 2,
+                "name": "Uche Esther",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130947/Esther_Uche_t7lqlo.jpg",
+                "email": "ucesty5@gmail.com",
+                "rank": "Fullstack Developer"
+            },
+            {
+                "id": 2,
+                "name": "Mercy Kalu",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130950/Keyu-2_quauum.jpg",
+                "rank": "Frontend Developer"
+            },
+            {
+                "id": 2,
+                "name": "Dara",
+                "imgUrl": "https://res.cloudinary.com/daranel/image/upload/v1606746079/DN_k6qhhg.jpg",
+                "rank": "Frontend Developer"
+            },
+            {
+                "id": 2,
+                "name": "Asoegwu Florence Nneoma",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130951/Asoegwu_Florence_Nneoma_gwiky6.jpg",
+                "rank": "Backend Developer"
+            },
+            {
+                "id": 2,
+                "name": "Iroh Jenny",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130947/Jennifer_xjkq1g.jpg",
+                "rank": "Fullstack Developer"
+            },
+            {
+                "id": 2,
+                "name": "Abiona Quadrat Adewemimo",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130947/Adewemimo-abiona_lpnyxc.png",
+                "rank": "Backend Developer"
+            },
+            {
+                "id": 2,
+                "name": "Oluwadunsin OLAJIDE",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130946/oladunsin_ftqii3.jpg",
+                "rank": "Fullstack Developer"
+            },
+
+            {
+                "id": 2,
+                "name": "Temitope Agbaje",
+                "imgUrl": "https://drive.google.com/file/d/17rTSWUFGw24PseT40JqH5y80gVd3TWjL/view?usp=drivesdk",
+                "rank": "Fullstack Developer"
+            },
+
+            {
+                "id": 2,
+                "name": "Damilola Olatunji",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130952/Damilola_Olatunji_cc7exn.jpg",
+                "rank": "Fullstack Developer"
+            },
+
+            {
+                "id": 2,
+                "name": "Ubi Destiny Keyukemi",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130950/Keyu-2_quauum.jpg",
+                "rank": "Fullstack Developer"
+            },
+
+            {
+                "id": 2,
+                "name": "Ngozi Okwuosa",
+                "imgUrl": "https://res.cloudinary.com/green-oluwakemi/image/upload/v1607130951/Ngozi_Okwuosa_nwqtgo.jpg",
+                "rank": "Fullstack Developer"
+            }
+    ]
+}
