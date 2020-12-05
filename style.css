@@ -1,12 +1,13 @@
 img {
   border: solid;
-  border-radius: 5px;
+  border-radius: 2rem;
+  padding-top: 1rem;
+  width: 250px;
+  height: 250px
+  
 }
 
-.materialboxed {
-  width: 50%;
-  height: 50%;
-}
+
 
 body {
   background-image: url(images/back4.jpg);

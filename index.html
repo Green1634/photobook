@@ -34,12 +34,15 @@
         console.log(response);
         response.persons.forEach(person => {
   
-        template+=`<div class="col s6 m6 l4 container white-text">       
-          <div>
-            <img class="materialboxed" width="100%" src="${person.imgUrl}">
+        template+=`<div class="col s12 m6 l4 container white-text">       
+          <div class="">
+            <img class="materialboxed" src="${person.imgUrl}">
             <span class="card-title activator white-text text-darken-4">${person.name} </span>
               <p>${person.rank}</p>
-                  </div> </div>`              
+                  </div> 
+                  
+              
+          </div>`              
       });
       document.getElementById('maincontent').innerHTML = eval('`' + template + '`');
       }
